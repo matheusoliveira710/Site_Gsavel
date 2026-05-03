@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(221, 143, 143);
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: royalblue;
+    text-align: center;
+}
+
+p {
+    color:royalblue ;
+    font-size: 32px;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
